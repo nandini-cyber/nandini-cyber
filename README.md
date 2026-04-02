@@ -4,7 +4,17 @@
 </p>
 
 ---
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/nandinikale210323/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:nandini.21323@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/nandini-cyber">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 ### 👩‍💻 About Me
 
 🎓 I'm a **B.Tech student in Computer Science and Engineering**  
@@ -13,41 +23,42 @@
 🤝 Open to collaborate on: **creative and impactful projects**  
 📫 Reach me at: [nandini.21323@gmail.com](mailto:nandini.21323@gmail.com)
 
+
 ---
 
-### 🔗 Connect with Me
+## 🛠️ Tech Stack
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/NandiniKale210323" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:nandini.21323@gmail.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail"/>
-  </a>
+### 🌐 Frontend & Mobile
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,js,html,css" />
+</p>
+
+### ⚙️ Backend & Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,flask,nodejs,cpp,java,,mongodb," />
+</p>
+
+### 🧰 Tools & DevOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,,figma,docker,render,vscode" />
 </p>
 
 ---
 
-### 🛠️ Languages and Tools
+## 📊 GitHub Stats 
 
 <p align="center">
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nandini-cyber&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+
+<img src="https://streak-stats.demolab.com?user=nandini-cyber&theme=tokyonight&hide_border=true" width="48%" />
+
 </p>
 
----
-
-### 📊 GitHub Analytics
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nandini-cyber&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandini-cyber&theme=tokyonight" alt="GitHub Streaks" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandini-cyber&layout=compact&theme=tokyonight" alt="Top Languages" />
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nandini-cyber&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+
 </p>
 
 ---
