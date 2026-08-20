@@ -15,59 +15,79 @@
     <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-### 👩‍💻 About Me
+## 👩‍💻 About Me
 
-🎓 I'm a **B.Tech student in Computer Science and Engineering**  
-🌱 Currently learning: **HTML, CSS, JavaScript, and Node.js**  
-💬 Ask me about: **Python and general programming**  
-🤝 Open to collaborate on: **creative and impactful projects**  
+🎓 Third-year **B.Tech Computer Science & Engineering** student  
+💻 Interested in building practical, user-focused full-stack applications  
+🧠 Strengthening my skills in **DSA, DBMS, OS, Computer Networks, and System Design**  
+🤖 Exploring **AI-powered web applications** and modern developer tools  
+🤝 Open to internships, hackathons, open-source contributions, and collaboration  
 📫 Reach me at: [nandini.21323@gmail.com](mailto:nandini.21323@gmail.com)
 
-
 ---
-
-## 🛠️ Tech Stack
-
-### 🌐 Frontend & Mobile
+🛠️ Tech Stack
+🌐 Frontend & Mobile
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,js,html,css" />
 </p>
 
-### ⚙️ Backend & Database
+⚙️ Backend & Database
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,flask,nodejs,cpp,java,,mongodb," />
+  <img src="https://skillicons.dev/icons?i=python,flask,nodejs,cpp,java,mongodb," />
 </p>
 
-### 🧰 Tools & DevOps
+
+🧰 Tools & DevOps
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,,figma,docker,render,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma,docker,render,vscode" />
 </p>
+---
+
+## 🧠 Currently Exploring
+
+<div align="center">
+
+| Area | Details |
+|:---:|:---|
+| 🤖 **AI & LLM Applications** | RAG · Prompt Engineering · Vector Databases · AI Agents |
+| ⚙️ **Full-Stack Development** | React · Next.js · Node.js · REST APIs · Authentication |
+| 🔐 **Application Security** | JWT · Role-Based Access · Secure APIs · Database Security |
+| ☁️ **Cloud & Deployment** | Docker · CI/CD Basics · Serverless Deployment · Cloud Services |
+| 🧩 **Core CS Fundamentals** | DSA · DBMS · Operating Systems · Computer Networks |
+| 📊 **Data Visualization** | Dashboards · Recharts · Analytics · Data-driven interfaces |
+
+</div>
 
 ---
 
-## 📊 GitHub Stats 
 
-<p align="center">
+## 🏆 GitHub Trophies
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nandini-cyber&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<div align="center">
 
-<img src="https://streak-stats.demolab.com?user=nandini-cyber&theme=tokyonight&hide_border=true" width="48%" />
+[![Trophies](https://github-profile-trophies.vercel.app/?username=nandini-cyber&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/nandini-cyber)
 
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nandini-cyber&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
-
-</p>
+</div>
 
 ---
 
-### 🏆 GitHub Trophies
+## 🔥 Streak Stats
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nandini-cyber&theme=tokyonight&no-frame=true&margin-w=5&margin-h=5" alt="GitHub Trophies" />
-</p>
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=nandini-cyber&theme=github-dark-blue&hide_border=true&stroke=1755a7&ring=00e5ff&fire=ff6b6b&currStreakLabel=00e5ff&sideLabels=a0c4e8&dates=5a7a94)](https://github.com/nandini-cyber)
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![Mrinal's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=nandini-cyber&theme=github-compact&bg_color=0d1117&color=00e5ff&line=1755a7&point=00e5ff&area=true&hide_border=true&area_color=1755a7)](https://github.com/nandini-cyber)
+
+</div>
 
 ---
 
